@@ -1,6 +1,6 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Vitor Vicente!
 
-I'm Frontend Developer with 4+ years experience building scalable, usability and high performance web applications. </br>
+I'm Frontend Developer with 5+ years experience building scalable, usability and high performance web applications. </br>
 Currently, i work at [Enjoei](https://www.enjoei.com.br) building and maintaining Rails + Vue applications.
 
 My stack: 
